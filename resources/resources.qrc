@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>schemas/xml.xsd</file>
+        <file>schemas/XMLSchema.xsd</file>
+        <file>icons/schema_validator.png</file>
+    </qresource>
+</RCC>
